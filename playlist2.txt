@@ -1,0 +1,42 @@
+# --- KATEGORI RADIO (DISERTAI NAMA STASIUN) ---
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8 - Arirang Korea
+https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8 - YTN Korea
+https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og - Radio Ardan
+https://streaming.ozradio.id:8443/ozbandung - Radio OZ
+https://svara-stream.radioddns.net/bandung_klitefm_acc - K Lite Bnadung
+https://stream-n1.gntr.net/listen/mgtradio/mgtradio - MGT Radio
+https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/medialist_9988553859297925072_hls.m3u8 - CBS Korea
+https://radioislamindonesia.com/rodja-bandung.mp3 - Radio Rodja
+http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8 - TBN Korea
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8 - TBS Korea
+https://i.klikhost.com/8332/; - Paramuda FM bandung
+https://n04-us.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABnyJ7kHkAgzPZFe006xbkaw - B Radio Bandung
+http://103.24.105.90:9300/fjkt - Female Radio
+http://sci.streamingmurah.com:8003/stream?dist=onlineradiobox - Music City
+https://stream-pd-bdg.dimasalfaridzi.my.id/delta - Delta FM Bandung
+https://svara-stream.radioddns.net/bandung_dahliafm - Dahlia FM Bandung 
+http://mettaswara.com:8700/cradio - Radio Kajian Islam
+http://202.147.199.101:8000/; - Trijaya FM
+http://202.58.200.26:1055/live - Radio Kosmonita 
+http://123.255.201.126:8020/kisfm - Kis FM
+http://streaming.radiomediafm.com:8400/; - Media FM 
+http://radio.dnetprovider.id:8000/StarFM - Star FM
+http://i.klikhost.com:9160/;rojer.mp3 Simphoni FM 
+http://45.64.97.82:8273/; - Sky Radio
+https://stream-ssl.arenastreaming.com:8000/jakarta - Radio Elshinta
+https://i.klikhost.com/8330/; - Radio Rama
+http://27.50.19.173:9000/gaulfm - Radio Gaul FM 
+http://uk22freenew.listen2myradio.com:25960/; - Puncak FM
+http://45.64.97.82:8072/; - Sonata Radio 
+
+# --- KATEGORI MUSIK MP3 (SESUAI FOLDER GENRE) ---
+# DANGDUT
+https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/rhoma_iramaku.mp3 - Rhoma Irama Iramaku
+https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/meggy_z_sakit_gigi.mp3 - Meggy Z Sakit Gigi
+
+# ROCK
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/slank_ku_tak_bisa.mp3 - Slank Ku Tak Bisa
+
+# POP
+https://raw.githubusercontent.com/gumi1800/mp3/main/pop/tulus_hati_hati_di_jalan.mp3 - Tulus Hati Hati Di Jalan
