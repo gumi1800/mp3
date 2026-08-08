@@ -108,6 +108,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/17.koruptor.mp3 - Sla
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/18.foto.mp3 - Slank Foto Dalam Dompet
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/19.pandangan.mp3 - Slank Pandangan Pertama
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/20.kampungan.mp3 - Slank Kampungan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/21.dan.mp3 - Sheila On 7 Dan
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
