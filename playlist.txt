@@ -79,15 +79,15 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/48.kupu.mp3 - Ebirt G
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/49.masihada.mp3 - Ebirt G Ade Masih Ada Waktu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/50.sebeningembun.mp3 - Ebirt G Ade Cinta Sebening Embun
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/51.elegi.mp3 - Ebirt G Ade Elegi Esok Pagi
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/52.dengarkan.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/53.ikhlas.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/54.pulang.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/55.nyanyianrindu.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/56.terkucil.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/57.sketsa.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebirt G Ade
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebirt G Ade
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/52.dengarkan.mp3 - Ebirt G Ade Kalian Dengarkan Keluhanku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/53.ikhlas.mp3 - Ebirt G Ade Ikhlas
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/54.pulang.mp3 - Ebirt G Ade Aku Ingin Pulang
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/55.nyanyianrindu.mp3 - Ebirt G Ade Nyanyian Rindu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/56.terkucil.mp3 - Ebirt G Ade Orang Orang Terkucil
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/57.sketsa.mp3 - Ebirt G Ade Sketsa Rembulan Emas
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebirt G Ade Apakah Ada Bedanya
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebirt G Ade Isyu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebirt G Ade Bingkai Mimpi
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
