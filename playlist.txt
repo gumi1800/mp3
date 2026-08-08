@@ -109,6 +109,25 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/18.foto.mp3 - Slank F
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/19.pandangan.mp3 - Slank Pandangan Pertama
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/20.kampungan.mp3 - Slank Kampungan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/21.dan.mp3 - Sheila On 7 Dan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/22.klasik.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/23.sephia.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/24.kita.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/25.melompat.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/26.pejantan.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/27.jap.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/28.bersamanya.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/29.lapang.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/30.sahabat.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/31.pemuja.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/32.pantas.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/33/anugerah.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/34.ituaku.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.bilakau.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/36.kesepian.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/37.tunjuk.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
