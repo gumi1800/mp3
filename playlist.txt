@@ -55,19 +55,19 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iw
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals Iya Atau Tidak
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang Arti Kehidupan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang Runtah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/25.teteh.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/26.ai.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/27.linu.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/28.mangdarman.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/29.mumun.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/30.berenyit.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/31.pangandaran.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3 - Doel Sumbang Kalau Bulan Bisa Ngomong
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3 - Doel Sumbang Aku Cinta Kamu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/25.teteh.mp3 - Doel Sumbang Teteh
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/26.ai.mp3 - Doel Sumbang Ai
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/27.linu.mp3 - Doel Sumbang Linu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/28.mangdarman.mp3 - Doel Sumbang Mang Darman
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/29.mumun.mp3 - Doel Sumbang Mumun
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/30.berenyit.mp3 - Doel Sumbang Berenyit
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/31.pangandaran.mp3 - Doel Sumbang Pangandaran
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3 - Doel Sumbang Ular Tangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3 - Doel Sumbang Tembang Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3 - Doel Sumbang Ditalipak
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3 - Doel Sumbang Batu Hiu
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
