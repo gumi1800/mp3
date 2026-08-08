@@ -34,27 +34,27 @@ http://45.64.97.82:8072/; - Sonata Radio
 
 
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals 22 januari
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan fals Antara Kau Kau dan Sepatu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan fals Aku Bukan Pilihan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3 - Iwan fals Buku Ini Aku Pinjam
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3 - Iwan fals Entah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/06.izinkan.mp3 - Iwan fals Izinkan Aku Mrnyayangimnu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07.jangantutup.mp3 - Iwan fals Jangan Tutup Dirimu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/08.jendelakelas.mp3 - Iwan fals Jendela kelas Satu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/09.kemesraan.mp3 - Iwan fals Kemesraan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/10.kumenanti.mp3 - Iwan fals Kumenanti Seorang Kekasih
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/11.lonteku.mp3 - Iwan fals Lonteku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/12.maafcintaku.mp3 - Iwan fals Maaf Cintaku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/13.mataindah.mp3 - Iwan fals Mata Indah Bola Pingpong
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/14.pengobraldosa.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/15.pesawat.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/16.sayangkamu.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/17.terlupakan.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals Antara Kau Kau dan Sepatu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals Aku Bukan Pilihan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3 - Iwan Fals Buku Ini Aku Pinjam
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3 - Iwan Fals Entah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/06.izinkan.mp - Iwan Fals Izinkan Aku Mrnyayangimnu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07.jangantutup.mp3 - Iwan Fals Jangan Tutup Dirimu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/08.jendelakelas.mp3 - Iwan Fals Jendela kelas Satu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/09.kemesraan.mp3 - Iwan Fals Kemesraan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/10.kumenanti.mp3 - Iwan Fals Kumenanti Seorang Kekasih
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/11.lonteku.mp3 - Iwan Fals Lonteku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/12.maafcintaku.mp3 - Iwan Fals Maaf Cintaku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/13.mataindah.mp3 - Iwan Fals Mata Indah Bola Pingpong
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/14.pengobraldosa.mp3 - Iwan Fals Doa Pengobral Dosa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/15.pesawat.mp3 - Iwan Fals Pesawat Tempurku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/16.sayangkamu.mp3 - Iwan Fals Aku sayang Kamu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/17.terlupakan.mp3 - Iwan Fals Ynag Terlupakan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3 - Iwan Fals Tolong Dengar Tuhan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iwan Fals Guru Oemar Bakri
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals Iya Atau Tidak
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang Arti Kehidupan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang Runtah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/25.teteh.mp3
