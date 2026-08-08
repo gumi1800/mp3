@@ -30,9 +30,29 @@ http://uk22freenew.listen2myradio.com:25960/; - Puncak FM
 http://45.64.97.82:8072/; - Sonata Radio 
 
 # --- KATEGORI MUSIK MP3 (SESUAI FOLDER GENRE) ---
-# DANGDUT
-https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/rhoma_iramaku.mp3 - Rhoma Irama Iramaku
-https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/meggy_z_sakit_gigi.mp3 - Meggy Z Sakit Gigi
+# INDO
+
+
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
