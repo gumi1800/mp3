@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/06.izinkan.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07jangantutup.mp3
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07.jangantutup.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/08.jendelakelas.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/09.kemesraan.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/10.kumenanti.mp3
@@ -68,16 +68,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
