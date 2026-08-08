@@ -30,9 +30,7 @@ http://uk22freenew.listen2myradio.com:25960/; - Puncak FM
 http://45.64.97.82:8072/; - Sonata Radio 
 
 # --- KATEGORI MUSIK MP3 (SESUAI FOLDER GENRE) ---
-# INDO
-
-
+# INDO 01
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals 22 januari
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals Antara Kau Kau dan Sepatu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals Aku Bukan Pilihan
@@ -88,6 +86,28 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/57.sketsa.mp3 - Ebiet
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebiet G Ade Apakah Ada Bedanya
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebiet G Ade Isyu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebiet G Ade Bingkai Mimpi
+
+# INDO 02
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/01.takbisa.mp3 - Slank Ku Tak Bisa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/02.terlalu.mp3 - Slank Terlalu Manis
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/03.balikin.mp3 - Slank Balikin
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/04.pulang.mp3 - Slank Kamu Harus Pulang
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/05.mawar.mp3 - Slank Mawar Merah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/06.imissu.mp3 - Slank I Miss You
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/07.virus.mp3 - Slank Virus
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/08.kosong.mp3 - Slank Tong Kosong
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/09.osh.mp3 - Slank Orkes Sakit Hati
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/10.garagara.mp3 - Slank Gara Gara Kamu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/11.maafkan.mp3 - Slank Maafkan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/12.anyer.mp3 - Slank Anyer 10 Maret
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/13.bangtut.mp3 - Slank Bang Bang Tut
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/14.cintakita.mp3 - Slank Cinta Kita
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/15.terbunuh.mp3 - Slank Terbunuh Sepi
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/16.bintang.mp3 - Slank Bintang Kesiangan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/17.koruptor.mp3 - Slank Seperti Koruptor
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/18.foto.mp3 - Slank Foto Dalam Dompet
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/19.pandangan.mp3 - Slank Pandangan Pertama
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/20.kampungan.mp3 - Slank Kampungan
 
 # ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
