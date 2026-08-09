@@ -1,38 +1,55 @@
-# --- KATEGORI RADIO (DISERTAI NAMA STASIUN) ---
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8 - Arirang Korea
-https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8 - YTN Korea
-https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og - Radio Ardan
-https://streaming.ozradio.id:8443/ozbandung - Radio OZ
-https://svara-stream.radioddns.net/bandung_klitefm_acc - K Lite Bnadung
-https://stream-n1.gntr.net/listen/mgtradio/mgtradio - MGT Radio
-https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/medialist_9988553859297925072_hls.m3u8 - CBS Korea
-https://radioislamindonesia.com/rodja-bandung.mp3 - Radio Rodja
-http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8 - TBN Korea
-https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8 - TBS Korea
-https://i.klikhost.com/8332/; - Paramuda FM bandung
-https://n04-us.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABnyJ7kHkAgzPZFe006xbkaw - B Radio Bandung
-http://103.24.105.90:9300/fjkt - Female Radio
-http://sci.streamingmurah.com:8003/stream?dist=onlineradiobox - Music City
-https://stream-pd-bdg.dimasalfaridzi.my.id/delta - Delta FM Bandung
-https://svara-stream.radioddns.net/bandung_dahliafm - Dahlia FM Bandung 
-http://mettaswara.com:8700/cradio - Radio Kajian Islam
-http://202.147.199.101:8000/; - Trijaya FM
-http://202.58.200.26:1055/live - Radio Kosmonita 
-http://123.255.201.126:8020/kisfm - Kis FM
-http://streaming.radiomediafm.com:8400/; - Media FM 
-http://radio.dnetprovider.id:8000/StarFM - Star FM
-http://i.klikhost.com:9160/;rojer.mp3 Simphoni FM 
-http://45.64.97.82:8273/; - Sky Radio
-https://stream-ssl.arenastreaming.com:8000/jakarta - Radio Elshinta
-https://i.klikhost.com/8330/; - Radio Rama
-http://27.50.19.173:9000/gaulfm - Radio Gaul FM 
-http://uk22freenew.listen2myradio.com:25960/; - Puncak FM
-http://45.64.97.82:8072/; - Sonata Radio 
+DATABASE RADIO STREAMING:
+Aturan: 
+- Jika pengguna SECARA EKSPLISIT meminta memutar radio (ada kata "radio", "putar radio", atau "dengerin radio"), WAJIB sertakan tag [PLAY_RADIO:kata_kunci_atau_url] di awal respon.
+- Jika pengguna minta nama radio spesifik, gunakan URL atau nama stasiunnya (Contoh: [PLAY_RADIO:kisfm] atau [PLAY_RADIO:Persib]).
+- Jika pengguna minta kategori/genre radio (misal: "radio berita", "radio musik", "radio dakwah"), gunakan kata kuncinya agar sistem memutar stasiun yang sesuai.
 
-# --- KATEGORI MUSIK MP3 (SESUAI FOLDER GENRE) ---
+Daftar Stasiun Radio:
+-  Radio Arirang Korea https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+-  Radio YTN Korea https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+-  Radio TBN Korea http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
+-  Radio TBS Korea https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8
+-  Radio Seoul Kpop https://frontend.streamonkey.net/energy-kpop/stream/mp3?aggregator=mytuner
+-  Radio CBS Korea https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/medialist_9988553859297925072_hls.m3u8
+-  Radio Kpop Ballads https://stream.musicalfactory.it/listen/k-pop_zone/radio.mp3
+-  Radio Ardan Bandung https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og
+-  Radio Oz Bandung https://streaming.ozradio.id:8443/ozbandung
+-  Radio K-Lit FM Bandung https://svara-stream.radioddns.net/bandung_klitefm_acc
+-  Radio MGT RBandung https://stream-n1.gntr.net/listen/mgtradio/mgtradio
+-  Radio Rodja FM Bandung https://radioislamindonesia.com/rodja-bandung.mp3
+-  Radio MQFM Bandung https://mqfmstreaming.kamil.web.id/
+-  Radio Delta FM Bandung https://stream-pd-bdg.dimasalfaridzi.my.id/delta
+-  Radio Paramuda FM Bandung https://i.klikhost.com/8332/;
+-  Radio Rama Bandung https://i.klikhost.com/8330/;
+-  Radio B Bandung https://n04-us.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABnyJ7kHkAgzPZFe006xbkaw
+-  Radio Dahlia FM Bandung https://svara-stream.radioddns.net/bandung_dahliafm
+-  Radio Fajri FM https://radio.mitradio.com/listen/fajrifm/radio.mp3
+-  Radio Darussalam FM https://fdsfdsfdsf.radio12345.com/intro.mp3
+-  Radio Female FM http://103.24.105.90:9300/fjkt
+-  Radio Music City http://sci.streamingmurah.com:8003/stream?dist=onlineradiobox
+-  Radio Elshinta https://stream-ssl.arenastreaming.com:8000/jakarta
+-  Radio Trijaya FM http://202.147.199.101:8000/;
+-  Radio Kosmonita http://202.58.200.26:1055/live
+-  Radio Kis FM http://123.255.201.126:8020/kisfm
+-  Radio Media FM http://streaming.radiomediafm.com:8400/;
+-  Radio Simphoni FM http://i.klikhost.com:9160/;rojer.mp3
+-  Radio Country https://ais-sa2.cdnstream1.com/1976_128.mp3
+-  Radio Classic https://classichitsradio.streamingmedia.it/play
+-  Radio Rock 80an https://streams.radiobob.de/bob-80srock/mp3-128/streams.radiobob.de/
+-  Radio Oldies 80an https://stream.rockantenne.nrw/oldie-antenne/stream/mp3
+-  Radio Dangdut Mania https://stream.zeno.fm/7fxttycvnqduv
+
+DATABASE MUSIK ATSPACE:
+Aturan: 
+- Tag [PLAY_MUSIC:kata_kunci_atau_url] HANYA BOLEH DIGUNAKAN JIKA pengguna SECARA EKSPLISIT mengucapkan kata "lagu", "musik", atau "putar lagu" (Contoh: "putar lagu koplo", "dengerin lagu rock").
+- Jika pengguna HANYA menyebut kata benda/judul TANPA kata "lagu/musik" (Contoh: "Isabella", "Always", "Tariris"), JANGAN gunakan tag [PLAY_MUSIC]! Berikan informasi/penjelasan teks biasa.
+- Jika pengguna minta 1 judul spesifik, gunakan kata kunci judulnya (Contoh: [PLAY_MUSIC:Isabella]).
+- Jika pengguna minta genre (Rock, Dangdut, Sunda, Koplo, Remix), gunakan nama genrenya agar sistem memutar semua lagu di genre tersebut secara berurutan (Contoh: [PLAY_MUSIC:Koplo]).
+
+Daftar Lagu:
 # INDO 01
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals 22 januari
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals Antara Kau Kau dan Sepatu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals - 22 januari
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals - Antara Aku Kau dan Sepatu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals Aku Bukan Pilihan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3 - Iwan Fals Buku Ini Aku Pinjam
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3 - Iwan Fals Entah
@@ -128,10 +145,3 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/37.tunjuk.mp3 - Sheil
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - Sheila On 7 Berhenti Berharap
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 Mudah Saja
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 Film Favorit
-
-# ROCK
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/jamrud_surti_tejo.mp3 - Jamrud Surti Tejo
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/slank_ku_tak_bisa.mp3 - Slank Ku Tak Bisa
-
-# POP
-https://raw.githubusercontent.com/gumi1800/mp3/main/pop/tulus_hati_hati_di_jalan.mp3 - Tulus Hati Hati Di Jalan
