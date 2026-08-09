@@ -145,6 +145,26 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/37.tunjuk.mp3 - Sheil
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - Sheila On 7 Berhenti Berharap
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 Mudah Saja
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 Film Favorit
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/41.1001.mp3 Rhoma Irama 1001 macam
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/42.aduhai.mp3 Rhoma Irama Aduhai
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/43.bahtera.mp3 Rhoma Irama Bahtera Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/44.begadang.mp3 Rhoma Irama Begadang
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/45.bujangan.mp3 Rhoma Irama  Bujangan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/46.darahmuda.mp3 Rhoma Irama Darah Muda
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/47.dasigincu.mp3 Rhoma Irama Dasi dan Gincu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/48.ghibah.mp3 Rhoma Irama Ghibah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/49.gitartua.mp3 Rhoma Irama Gitar Tua
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/50.judi.mp3 Rhoma Irama Judi
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/51.keramat.mp3 Rhoma Irama Keramat
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/52.malamminggu.mp3 Rhoma Irama Malam Minggu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/53.melodi.mp3 Rhoma Irama Melodi Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/54.mirasantika.mp3 Rhoma Irama Mirasantika
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/55.penasaran.mp3 Rhoma Irama Penasaran
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/56.perjuangan.mp3 Rhoma Irama Perjuangan dan Doa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/57.pertemuan.mp3 Rhoma Irama Pertemuan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/58.pujangga.mp3 Rhoma Irama Pujangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/59.rupiah.mp3 Rhoma Irama Rupiah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/60.syahdu.mp3 Rhoma Irama Syahdu
 
 # INDO03
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/01.akuada.mp3 Radja Aku Ada Karena kau Ada
