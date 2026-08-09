@@ -146,7 +146,26 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - She
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 Mudah Saja
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 Film Favorit
 
-# BEST
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/albumiwanfals.mp3 - Best Iwan Flas
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/dangdutrhoma.mp3 - Best Rhoma Irama
+# INDO03
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/01.akuada.mp3 Radja Aku Ada Karena kau Ada
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/02.angin.mp3 Radja Angin
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/03.bbc.mp3 Radja Bencci Bilang Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/04.bulan.mp3 Radja Bulan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/05.cinderella.mp3 Radja Cinderella
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/06.jujur.mp3 Radja Jujur
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/07.manusia.mp3 Radja Manusia Biasa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/08.patahhati.mp3 Radja Patah hati
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/09.tulus.mp3 Radja Tulus
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/10.yakin.mp3 Radja Yakin
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/11.salam.mp3 Type-X Salam Rindu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/12.sendirian.mp3 Type-X Kamu Nggak Sendirian
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/13.mawarhitam.mp3 Type-X Mawar Hitam
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/14.genit.mp3 Type-X Genit
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/15.selamatjalan.mp3 Type-X Selamat Jalan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/16.tanda.mp3 Type-X Tanda Patah Hati
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/17.tampan.mp3 Type-X Pria Tampan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/18.pacarbaik.mp3 Type-X Pacar Yang Baik
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/19.boyband.mp3 Type-X Boyband
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/20.melati.mp3 Type-X Melati Aku benci
+
 
