@@ -50,59 +50,59 @@ Daftar Lagu:
 # INDO 01
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals - 22 januari
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals - Antara Aku Kau dan Sepatu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals Aku Bukan Pilihan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3 - Iwan Fals Buku Ini Aku Pinjam
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3 - Iwan Fals Entah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/06.izinkan.mp - Iwan Fals Izinkan Aku Mrnyayangimnu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07.jangantutup.mp3 - Iwan Fals Jangan Tutup Dirimu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/08.jendelakelas.mp3 - Iwan Fals Jendela kelas Satu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/09.kemesraan.mp3 - Iwan Fals Kemesraan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals - Aku Bukan Pilihan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/04.bukuiniakupinjam.mp3 - Iwan Fals - Buku Ini Aku Pinjam
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/05.entah.mp3 - Iwan Fals - Entah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/06.izinkan.mp - Iwan Fals - Izinkan Aku Mrnyayangimnu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/07.jangantutup.mp3 - Iwan Fals - Jangan Tutup Dirimu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/08.jendelakelas.mp3 - Iwan Fals - Jendela kelas Satu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/09.kemesraan.mp3 - Iwan Fals - Kemesraan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/10.kumenanti.mp3 - Iwan Fals Kumenanti Seorang Kekasih
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/11.lonteku.mp3 - Iwan Fals Lonteku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/12.maafcintaku.mp3 - Iwan Fals Maaf Cintaku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/13.mataindah.mp3 - Iwan Fals Mata Indah Bola Pingpong
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/14.pengobraldosa.mp3 - Iwan Fals Doa Pengobral Dosa
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/15.pesawat.mp3 - Iwan Fals Pesawat Tempurku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/16.sayangkamu.mp3 - Iwan Fals Aku Sayang Kamu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/17.terlupakan.mp3 - Iwan Fals Yang Terlupakan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3 - Iwan Fals Tolong Dengar Tuhan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iwan Fals Guru Oemar Bakri
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals Iya Atau Tidak
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang Arti Kehidupan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang Runtah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3 - Doel Sumbang Kalau Bulan Bisa Ngomong
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3 - Doel Sumbang Aku Cinta Kamu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/25.teteh.mp3 - Doel Sumbang Teteh
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/26.ai.mp3 - Doel Sumbang Ai
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/27.linu.mp3 - Doel Sumbang Linu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/28.mangdarman.mp3 - Doel Sumbang Mang Darman
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/29.mumun.mp3 - Doel Sumbang Mumun
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/30.berenyit.mp3 - Doel Sumbang Berenyit
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/31.pangandaran.mp3 - Doel Sumbang Pangandaran
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3 - Doel Sumbang Ular Tangga
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3 - Doel Sumbang Tembang Cinta
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3 - Doel Sumbang Ditalipak
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3 - Doel Sumbang Batu Hiu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/41.berita.mp3 - Ebiet G Ade Berita Kepada Kawan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/42.titiprindu.mp3 - Ebiet G Ade Titip Rindu Buat Ayah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/43.CameliaI.mp3 - Ebiet G Ade Camelia I
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/44.Camelia2.mp3 - Ebiet G Ade Camelia II
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/45.matahari.mp3 - Ebiet G Ade Menjaring Matahari
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/46.renungkan.mp3 - Ebiet G Ade Untuk Kita Renungkan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/47.sebuahnama.mp3 - Ebiet G Ade Untuk Sebuah Nama
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/48.kupu.mp3 - Ebiet G Ade Kupu Kupu Ketas
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/49.masihada.mp3 - Ebiet G Ade Masih Ada Waktu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/50.sebeningembun.mp3 - Ebiet G Ade Cinta Sebening Embun
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/51.elegi.mp3 - Ebiet G Ade Elegi Esok Pagi
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/52.dengarkan.mp3 - Ebiet G Ade Kalian Dengarkan Keluhanku
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/53.ikhlas.mp3 - Ebiet G Ade Ikhlas
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/54.pulang.mp3 - Ebiet G Ade Aku Ingin Pulang
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/55.nyanyianrindu.mp3 - Ebiet G Ade Nyanyian Rindu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/56.terkucil.mp3 - Ebiet G Ade Orang Orang Terkucil
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/57.sketsa.mp3 - Ebiet G Ade Sketsa Rembulan Emas
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebiet G Ade Apakah Ada Bedanya
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebiet G Ade Isyu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebiet G Ade Bingkai Mimpi
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/12.maafcintaku.mp3 - Iwan Fals - Maaf Cintaku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/13.mataindah.mp3 - Iwan Fals - Mata Indah Bola Pingpong
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/14.pengobraldosa.mp3 - Iwan Fals - Doa Pengobral Dosa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/15.pesawat.mp3 - Iwan Fals - Pesawat Tempurku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/16.sayangkamu.mp3 - Iwan Fals - Aku Sayang Kamu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/17.terlupakan.mp3 - Iwan Fals - Yang Terlupakan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3 - Iwan Fals - Tolong Dengar Tuhan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iwan Fals - Guru Oemar Bakri
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals - Iya Atau Tidak
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang - Arti Kehidupan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang - Runtah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3 - Doel Sumbang - Kalau Bulan Bisa Ngomong
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3 - Doel Sumbang - Aku Cinta Kamu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/25.teteh.mp3 - Doel Sumbang - Teteh
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/26.ai.mp3 - Doel Sumbang - Ai
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/27.linu.mp3 - Doel Sumbang - Linu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/28.mangdarman.mp3 - Doel Sumbang - Mang Darman
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/29.mumun.mp3 - Doel Sumbang - Mumun
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/30.berenyit.mp3 - Doel Sumbang - Berenyit
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/31.pangandaran.mp3 - Doel Sumbang - Pangandaran
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3 - Doel Sumbang - Ular Tangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3 - Doel Sumbang - Tembang Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3 - Doel Sumbang - Ditalipak
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3 - Doel Sumbang - Batu Hiu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/41.berita.mp3 - Ebiet G Ade - Berita Kepada Kawan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/42.titiprindu.mp3 - Ebiet G Ade - Titip Rindu Buat Ayah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/43.CameliaI.mp3 - Ebiet G Ade - - Camelia I
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/44.Camelia2.mp3 - Ebiet G Ade - Camelia II
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/45.matahari.mp3 - Ebiet G Ade - Menjaring Matahari
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/46.renungkan.mp3 - Ebiet G Ade - Untuk Kita Renungkan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/47.sebuahnama.mp3 - Ebiet G Ade - Untuk Sebuah Nama
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/48.kupu.mp3 - Ebiet G Ade - Kupu Kupu Ketas
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/49.masihada.mp3 - Ebiet G Ade - Masih Ada Waktu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/50.sebeningembun.mp3 - Ebiet G Ade - Cinta Sebening Embun
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/51.elegi.mp3 - Ebiet G Ade - Elegi Esok Pagi
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/52.dengarkan.mp3 - Ebiet G Ade - Kalian Dengarkan Keluhanku
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/53.ikhlas.mp3 - Ebiet G Ade - Ikhlas
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/54.pulang.mp3 - Ebiet G Ade - Aku Ingin Pulang
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/55.nyanyianrindu.mp3 - Ebiet G Ade - Nyanyian Rindu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/56.terkucil.mp3 - Ebiet G Ade - Orang Orang Terkucil
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/57.sketsa.mp3 - Ebiet G Ade - Sketsa Rembulan Emas
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebiet G Ade - Apakah Ada Bedanya
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebiet G Ade - Isyu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebiet G Ade - Bingkai Mimpi
 
 # INDO 02
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/01.takbisa.mp3 - Slank Ku Tak Bisa
