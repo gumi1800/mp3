@@ -251,3 +251,24 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/memories/17.simplyredholding
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijustcalledtosayiloveyou.mp3 - Stevie Wonder I Just Called To Say I Love You
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 - The Beatles - The Beatles - Something
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 - Unchained Melody
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3  Anggun - Mimpi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3  Base Jam - Bukan Pujangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3  Bunga - Kasih Jangan Kau Pergi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.chrisyekisahkasihdisekolah.mp3  Chrisye - Kisah Kasih Di Sekolah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.cintakitaamysearchdaninkachristieliriklagu.mp3  Cinta Kita - Amy Search Dan Inka Christie Lirik Lagu
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.dewa19kangen.mp3  Dewa 19 - Kangen
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.existsmencarialasan.mp3  Exists - Mencari Alasan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.firmankehilanganmusic.mp3  Firman - Kehilangan #Music
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.hijaudaunsuara.mp3  Hijau Daun - Suara
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.itapurnamasariyanksonairindusampaimati.mp3  Ita Purnamasari & Yankson A I - Rindu Sampai Mati
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.jamrudwaktukumandi.mp3  Jamrud - Waktuku Mandi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.javajivekauyangterindah.mp3  Java Jive - Kau Yang Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.klaprojectyogyakartaofficial4kremasteredvideo.mp3  Kla Project - Yogyakarta Official 4K Remastered Video
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.nickiastrea.mp3  Nicki Astrea
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.nikeardillabintangkehidupan.mp3  Nike Ardilla - Bintang Kehidupan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.noahseparuhaku.mp3  Noah - Separuh Aku
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.noahyangterdalam.mp3  Noah - Yang Terdalam
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhirofficialmusicvideo.mp3  Romeo - Bunga Terakhir Official Music Video
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3  Samson - Kenangan Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3  Trio Libels - Aku Suka Kamu
+
