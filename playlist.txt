@@ -188,7 +188,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/18.pacarbaik.mp3 Type
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/19.boyband.mp3 Type-X - Boyband
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/20.melati.mp3 Type-X - Melati Aku benci
 
-# SLOW ROCK & BARAT
+# SLOW ROCK
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/01.november.mp3 - Guns n Roses - November Rain
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/02.always.mp3 - Bon Jovi - Always
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 - Steel Heart - Shes Gone
@@ -209,7 +209,9 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 - Bry
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 - Mr. Big - To Be With You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 - Nazaret - Love Hurts
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 - Deep Purple - Soldier of Fortune
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 - Westlife – My Love
+
+# BARAT
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Barat - My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 - MLTR – Paint My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 - Bryan Adams – Heaven
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 - Celine Dion – My Heart Will Go On
