@@ -211,12 +211,12 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 - Naza
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 - Deep Purple - Soldier of Fortune
 
 # BARAT
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Barat - My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Barat – Paint My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Barat - Heaven
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Barat - My Heart Will Go On
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Barat - I Want It That Way
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Barat - No Matter
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Westlife - My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 MTLR – Paint My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Bryan Adams - Heaven
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Celine Dion - My Heart Will Go On
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Back Street Boys - I Want It That Way
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Boyzone - No Matter
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/27.itmusthave.mp3 Roxette – It Must Have Been Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/28.iwillalways.mp3 Whitney Houston – I Will Always Love You
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/29.righther.mp3 Richard Marx – Right Here Waiting
