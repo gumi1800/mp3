@@ -231,13 +231,23 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Eric Cl
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Madonna - Crazy for You
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Cyndi Lauper - Time After Time
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Bee Gees - How Deep Is Your Love
-Always Bon Jovi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/1.alwaysbonjovikoplo.mp3
-Canon Rock Kopl https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/2.canonrockkopl.mp3
-Guns N Roses Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/3.gunsnrosesversikoplo.mp3
-Ku Tak Bisa Slank Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/4.kutakbisaslankversikoplo.mp3
-Lagi Lagi Sendiri Tipe X Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/5.lagilagisendiritipexversikoplo.mp3
-Lily - Versi Dangdut Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/6.lilyversidangdutkoplo.mp3
-Mawar Hitam - Tipe X Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/7.mawarhitamtipexversikoplo.mp3
-Sakit Hati - Tipe X Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/8.sakithatitipexversikoplo.mp3
-Virus - Slank Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/9.virusslankkoplo.mp3
-It S My Life - Bon Jovi Versi Koplo https://raw.githubusercontent.com/gumi1800/mp3/main/koplo/10.itsmylifebonjoviversikoplo.mp3
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/1.barbrastreisandwomaninlove.mp3 - Barbra Streisand - Woman In Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/2.benekingstandbyme.mp3 - Ben E. King - Stand By Me
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/3.bettemidlerwindbeneathmywings.mp3 - Bette Midler - Wind Beneath My Wings
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/4.carpentersclosetoyou.mp3 - Carpenters - Close To You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/5.chicagohardtosayimsorrylyrics.mp3 - Chicago - Hard To Say I'M Sorry Lyrics
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/6.dianarosslionelrichieendlesslove.mp3 - Diana Ross & Lionel Richie - Endless Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/7.elvispresleycanthelpfallinginlove.mp3 - Elvis Presley - Can'T Help Falling In Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/8.flymetothemoonfranksinatralyricsterjemahanindonesia.mp3 - Fly Me To The Moon - Frank Sinatra Lyrics Terjemahan Indonesia
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/9.foreigneriwanttoknowwhatloveis.mp3 - Foreigner - I Want To Know What Love Is
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/10.lovestoryandywilliams.mp3 - Love Story - Andy Williams
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/11.michaeljacksonijustcantstoplovingyou.mp3 - Michael Jackson - I Just Can'T Stop Loving You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/12.nataliecolenatkingcoleunforgettable1991.mp3 - Natalie Cole & Nat King Cole Unforgettable 1991
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/13.peabobrysonreginabelleawholenewworld.mp3 - Peabo Bryson, Regina Belle - A Whole New World
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/14.putyourheadonmyshoulder.mp3 - Put Your Head On My Shoulder
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/15.robertaflackkillingmesoftlywithhissong.mp3 - Roberta Flack - Killing Me Softly With His Song
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/16.rodstewarthaveitoldyoulately.mp3 - Rod Stewart - Have I Told You Lately
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/17.simplyredholdingbacktheyears.mp3 - Simply Red - Holding Back The Years
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijustcalledtosayiloveyou.mp3 - Stevie Wonder I Just Called To Say I Love You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 - The Beatles - The Beatles - Something
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 - Unchained Melody
