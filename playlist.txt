@@ -210,27 +210,27 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 Slow Rock -
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
 
-# POP BARAT
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Pop Barat Westlife - My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Pop Barat MTLR – Paint My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Pop Barat Bryan Adams - Heaven
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Pop Barat Celine Dion - My Heart Will Go On
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Pop Barat Back Street Boys - I Want It That Way
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Pop Barat Boyzone - No Matter
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/27.itmusthave.mp3 Pop Barat Roxette - It Must Have Been Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/28.iwillalways.mp3 Pop Barat Whitney Houston - I Will Always Love You
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/29.righther.mp3 Pop Barat Richard Marx - Right Here Waiting
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/30.anotherday.mp3 Pop Barat Phil Collins - Another Day in Paradise
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/31.careless.mp3 Pop Barat George Michael - Careless Whisper
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/32.makinglove.mp3 Pop Barat Air Supply - Making Love Out of Nothing at All
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/33.yourstill.mp3 Pop Barat Shania Twain - You're Still the One
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/34.trlymadly.mp3 Pop Barat Savage Garden - Truly Madly Deeply
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/35.backfor.mp3 Pop Barat Take That - Back for Good
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/36.hero.mp3 Pop Barat Mariah Carey - Hero
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Pop Barat Eric Clapton - Tears in Heaven
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Pop Barat Madonna - Crazy for You
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Pop Barat Cyndi Lauper - Time After Time
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Pop Barat Bee Gees - How Deep Is Your Love
+# Pop Barat -
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Pop Barat - Westlife - My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Pop Barat - MTLR – Paint My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Pop Barat - Bryan Adams - Heaven
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Pop Barat - Celine Dion - My Heart Will Go On
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Pop Barat - Back Street Boys - I Want It That Way
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Pop Barat - Boyzone - No Matter
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/27.itmusthave.mp3 Pop Barat - Roxette - It Must Have Been Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/28.iwillalways.mp3 Pop Barat - Whitney Houston - I Will Always Love You
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/29.righther.mp3 Pop Barat - Richard Marx - Right Here Waiting
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/30.anotherday.mp3 Pop Barat - Phil Collins - Another Day in Paradise
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/31.careless.mp3 Pop Barat - George Michael - Careless Whisper
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/32.makinglove.mp3 Pop Barat - Air Supply - Making Love Out of Nothing at All
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/33.yourstill.mp3 Pop Barat - Shania Twain - You're Still the One
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/34.trlymadly.mp3 Pop Barat - Savage Garden - Truly Madly Deeply
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/35.backfor.mp3 Pop Barat - Take That - Back for Good
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/36.hero.mp3 Pop Barat - Mariah Carey - Hero
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Pop Barat - Eric Clapton - Tears in Heaven
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Pop Barat - Madonna - Crazy for You
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Pop Barat - Cyndi Lauper - Time After Time
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Pop Barat - Bee Gees - How Deep Is Your Love
 
 # BARAT 70's
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/1.barbrastreisandwomaninlove.mp3 Barat 70's - Barbra Streisand - Woman In Love
@@ -254,25 +254,25 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijus
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 Barat 70's - The Beatles - The Beatles - Something
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 Barat 70's - Unchained Melody
 
-# INDO 80's
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3 Indo 80's  Anggun - Mimpi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3 Indo 80's  Base Jam - Bukan Pujangga
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3 Indo 80's  Bunga - Kasih Jangan Kau Pergi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.chrisyekisahkasihdisekolah.mp3 Indo 80's  Chrisye - Kisah Kasih Di Sekolah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.cintakitaamysearchdaninkachristieliriklagu.mp3 Indo 80's  Cinta Kita - Amy Search Dan Inka Christie
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.dewa19kangen.mp3 Indo 80's  Dewa 19 - Kangen
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.existsmencarialasan.mp3 Indo 80's  Exists - Mencari Alasan
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.firmankehilanganmusic.mp3 Indo 80's  Firman - Kehilangan
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.hijaudaunsuara.mp3 Indo 80's  Hijau Daun - Suara
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.itapurnamasariyanksonairindusampaimati.mp3 Indo 80's  Ita Purnamasari & Yankson A I - Rindu Sampai Mati
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.jamrudwaktukumandi.mp3 Indo 80's  Jamrud - Waktuku Mandi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.javajivekauyangterindah.mp3 Indo 80's  Java Jive - Kau Yang Terindah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.klaprojectyogyakartaofficial4kremasteredvideo.mp3 Indo 80's  Kla Project - Yogyakarta
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.nickiastrea.mp3 Indo 80's  Nicki Astrea
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.nikeardillabintangkehidupan.mp3 Indo 80's  Nike Ardilla - Bintang Kehidupan
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.noahseparuhaku.mp3 Indo 80's  Noah - Separuh Aku
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.noahyangterdalam.mp3 Indo 80's  Noah - Yang Terdalam
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhirofficialmusicvideo.mp3 Indo 80's  Romeo - Bunga Terakhir 
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3 Indo 80's  Samson - Kenangan Terindah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3 Indo 80's  Trio Libels - Aku Suka Kamu
+# Indo 80's -
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3 Indo 80's - Anggun - Mimpi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3 Indo 80's - Base Jam - Bukan Pujangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3 Indo 80's - Bunga - Kasih Jangan Kau Pergi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.chrisyekisahkasihdisekolah.mp3 Indo 80's - Chrisye - Kisah Kasih Di Sekolah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.cintakitaamysearchdaninkachristieliriklagu.mp3 Indo 80's - Cinta Kita - Amy Search Dan Inka Christie
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.dewa19kangen.mp3 Indo 80's - Dewa 19 - Kangen
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.existsmencarialasan.mp3 Indo 80's - Exists - Mencari Alasan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.firmankehilanganmusic.mp3 Indo 80's - Firman - Kehilangan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.hijaudaunsuara.mp3 Indo 80's - Hijau Daun - Suara
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.itapurnamasariyanksonairindusampaimati.mp3 Indo 80's - Ita Purnamasari & Yankson A I - Rindu Sampai Mati
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.jamrudwaktukumandi.mp3 Indo 80's - Jamrud - Waktuku Mandi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.javajivekauyangterindah.mp3 Indo 80's - Java Jive - Kau Yang Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.klaprojectyogyakartaofficial4kremasteredvideo.mp3 Indo 80's - Kla Project - Yogyakarta
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.nickiastrea.mp3 Indo 80's - Nicki Astrea
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.nikeardillabintangkehidupan.mp3 Indo 80's - Nike Ardilla - Bintang Kehidupan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.noahseparuhaku.mp3 Indo 80's - Noah - Separuh Aku
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.noahyangterdalam.mp3 Indo 80's - Noah - Yang Terdalam
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhirofficialmusicvideo.mp3 Indo 80's - Romeo - Bunga Terakhir 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3 Indo 80's - Samson - Kenangan Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3 Indo 80's - Trio Libels - Aku Suka Kamu
 https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 Tarhim
