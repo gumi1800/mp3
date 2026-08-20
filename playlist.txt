@@ -189,86 +189,90 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/19.boyband.mp3 Type-X
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/20.melati.mp3 Type-X - Melati Aku benci
 
 # SLOW ROCK
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/01.november.mp3 - Guns n Roses - November Rain
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/02.always.mp3 - Bon Jovi - Always
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 - Steel Heart - Shes Gone
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/04.windof.mp3 - Scorpions - Wind Of Change
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/05.missathing.mp3 - Aerosmith - I Dont Miss A Thing
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 - Fire House - When I look Into Ypur Eyes
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/07.rememberyou.mp3 - Skid Row - Remember You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/08.california.mp3 - Eagles - Hotel California
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/09.loveofmylife.mp3 - Queen - Love Of My Life
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.childrencry.mp3 - White Lions - When the Children Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.dontcry.mp3 - Guns n Roses - Dont Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.bedofroses.mp3 - Bon Jovi - Bed Of Roses
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.lovingyou.mp3 - Scorpions - I Still Loving You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.lifetime.mp3 - Fire House - Love Of A Life Time
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.morethanwords.mp3 - Extreme - More Than Words
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.nothingelse.mp3 - Metallica - Nothing Else Matter
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 - Bryan Adam - I Doit For You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 - Mr. Big - To Be With You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 - Nazaret - Love Hurts
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 - Deep Purple - Soldier of Fortune
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/01.november.mp3 Slow Rock - Guns n Roses - November Rain
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/02.always.mp3 Slow Rock - Bon Jovi - Always
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 Slow Rock - Steel Heart - Shes Gone
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/04.windof.mp3 Slow Rock - Scorpions - Wind Of Change
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/05.missathing.mp3 Slow Rock - Aerosmith - I Dont Miss A Thing
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 Slow Rock - Fire House - When I look Into Ypur Eyes
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/07.rememberyou.mp3 Slow Rock - Skid Row - Remember You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/08.california.mp3 Slow Rock - Eagles - Hotel California
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/09.loveofmylife.mp3 Slow Rock - Queen - Love Of My Life
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.childrencry.mp3 Slow Rock - White Lions - When the Children Cry
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.dontcry.mp3 Slow Rock - Guns n Roses - Dont Cry
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.bedofroses.mp3 Slow Rock - Bon Jovi - Bed Of Roses
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.lovingyou.mp3 Slow Rock - Scorpions - I Still Loving You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.lifetime.mp3 Slow Rock - Fire House - Love Of A Life Time
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.morethanwords.mp3 Slow Rock - Extreme - More Than Words
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.nothingelse.mp3 Slow Rock - Metallica - Nothing Else Matter
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 Slow Rock - Bryan Adam - I Doit For You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 Slow Rock - Mr. Big - To Be With You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
 
-# BARAT
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Westlife - My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 MTLR – Paint My Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Bryan Adams - Heaven
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Celine Dion - My Heart Will Go On
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Back Street Boys - I Want It That Way
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Boyzone - No Matter
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/27.itmusthave.mp3 Roxette - It Must Have Been Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/28.iwillalways.mp3 Whitney Houston - I Will Always Love You
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/29.righther.mp3 Richard Marx - Right Here Waiting
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/30.anotherday.mp3 Phil Collins - Another Day in Paradise
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/31.careless.mp3 George Michael - Careless Whisper
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/32.makinglove.mp3 Air Supply - Making Love Out of Nothing at All
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/33.yourstill.mp3 Shania Twain - You're Still the One
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/34.trlymadly.mp3 Savage Garden - Truly Madly Deeply
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/35.backfor.mp3 Take That - Back for Good
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/36.hero.mp3 Mariah Carey - Hero
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Eric Clapton - Tears in Heaven
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Madonna - Crazy for You
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Cyndi Lauper - Time After Time
-https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Bee Gees - How Deep Is Your Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/1.barbrastreisandwomaninlove.mp3 - Barbra Streisand - Woman In Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/2.benekingstandbyme.mp3 - Ben E. King - Stand By Me
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/3.bettemidlerwindbeneathmywings.mp3 - Bette Midler - Wind Beneath My Wings
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/4.carpentersclosetoyou.mp3 - Carpenters - Close To You
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/5.chicagohardtosayimsorrylyrics.mp3 - Chicago - Hard To Say I'M Sorry Lyrics
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/6.dianarosslionelrichieendlesslove.mp3 - Diana Ross & Lionel Richie - Endless Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/7.elvispresleycanthelpfallinginlove.mp3 - Elvis Presley - Can'T Help Falling In Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/8.flymetothemoonfranksinatralyricsterjemahanindonesia.mp3 - Fly Me To The Moon - Frank Sinatra Lyrics Terjemahan Indonesia
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/9.foreigneriwanttoknowwhatloveis.mp3 - Foreigner - I Want To Know What Love Is
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/10.lovestoryandywilliams.mp3 - Love Story - Andy Williams
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/11.michaeljacksonijustcantstoplovingyou.mp3 - Michael Jackson - I Just Can'T Stop Loving You
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/12.nataliecolenatkingcoleunforgettable1991.mp3 - Natalie Cole & Nat King Cole Unforgettable 1991
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/13.peabobrysonreginabelleawholenewworld.mp3 - Peabo Bryson, Regina Belle - A Whole New World
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/14.putyourheadonmyshoulder.mp3 - Put Your Head On My Shoulder
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/15.robertaflackkillingmesoftlywithhissong.mp3 - Roberta Flack - Killing Me Softly With His Song
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/16.rodstewarthaveitoldyoulately.mp3 - Rod Stewart - Have I Told You Lately
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/17.simplyredholdingbacktheyears.mp3 - Simply Red - Holding Back The Years
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijustcalledtosayiloveyou.mp3 - Stevie Wonder I Just Called To Say I Love You
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 - The Beatles - The Beatles - Something
-https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 - Unchained Melody
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3  Anggun - Mimpi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3  Base Jam - Bukan Pujangga
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3  Bunga - Kasih Jangan Kau Pergi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.chrisyekisahkasihdisekolah.mp3  Chrisye - Kisah Kasih Di Sekolah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.cintakitaamysearchdaninkachristieliriklagu.mp3  Cinta Kita - Amy Search Dan Inka Christie Lirik Lagu
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.dewa19kangen.mp3  Dewa 19 - Kangen
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.existsmencarialasan.mp3  Exists - Mencari Alasan
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.firmankehilanganmusic.mp3  Firman - Kehilangan #Music
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.hijaudaunsuara.mp3  Hijau Daun - Suara
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.itapurnamasariyanksonairindusampaimati.mp3  Ita Purnamasari & Yankson A I - Rindu Sampai Mati
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.jamrudwaktukumandi.mp3  Jamrud - Waktuku Mandi
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.javajivekauyangterindah.mp3  Java Jive - Kau Yang Terindah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.klaprojectyogyakartaofficial4kremasteredvideo.mp3  Kla Project - Yogyakarta Official 4K Remastered Video
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.nickiastrea.mp3  Nicki Astrea
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.nikeardillabintangkehidupan.mp3  Nike Ardilla - Bintang Kehidupan
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.noahseparuhaku.mp3  Noah - Separuh Aku
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.noahyangterdalam.mp3  Noah - Yang Terdalam
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhirofficialmusicvideo.mp3  Romeo - Bunga Terakhir Official Music Video
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3  Samson - Kenangan Terindah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3  Trio Libels - Aku Suka Kamu
+# POP BARAT
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Pop Barat Westlife - My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Pop Barat MTLR – Paint My Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Pop Barat Bryan Adams - Heaven
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/24.myheart.mp3 Pop Barat Celine Dion - My Heart Will Go On
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/25.iwantit.mp3 Pop Barat Back Street Boys - I Want It That Way
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/26.nomatter.mp3 Pop Barat Boyzone - No Matter
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/27.itmusthave.mp3 Pop Barat Roxette - It Must Have Been Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/28.iwillalways.mp3 Pop Barat Whitney Houston - I Will Always Love You
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/29.righther.mp3 Pop Barat Richard Marx - Right Here Waiting
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/30.anotherday.mp3 Pop Barat Phil Collins - Another Day in Paradise
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/31.careless.mp3 Pop Barat George Michael - Careless Whisper
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/32.makinglove.mp3 Pop Barat Air Supply - Making Love Out of Nothing at All
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/33.yourstill.mp3 Pop Barat Shania Twain - You're Still the One
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/34.trlymadly.mp3 Pop Barat Savage Garden - Truly Madly Deeply
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/35.backfor.mp3 Pop Barat Take That - Back for Good
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/36.hero.mp3 Pop Barat Mariah Carey - Hero
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Pop Barat Eric Clapton - Tears in Heaven
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Pop Barat Madonna - Crazy for You
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Pop Barat Cyndi Lauper - Time After Time
+https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Pop Barat Bee Gees - How Deep Is Your Love
+
+# BARAT 70's
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/1.barbrastreisandwomaninlove.mp3 Barat 70's - Barbra Streisand - Woman In Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/2.benekingstandbyme.mp3 Barat 70's - Ben E. King - Stand By Me
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/3.bettemidlerwindbeneathmywings.mp3 Barat 70's - Bette Midler - Wind Beneath My Wings
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/4.carpentersclosetoyou.mp3 Barat 70's - Carpenters - Close To You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/5.chicagohardtosayimsorrylyrics.mp3 Barat 70's - Chicago - Hard To Say I'M Sorry
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/6.dianarosslionelrichieendlesslove.mp3 Barat 70's - Diana Ross & Lionel Richie - Endless Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/7.elvispresleycanthelpfallinginlove.mp3 Barat 70's - Elvis Presley - Can'T Help Falling In Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/8.flymetothemoonfranksinatralyricsterjemahanindonesia.mp3 Barat 70's - Fly Me To The Moon - Frank Sinatra
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/9.foreigneriwanttoknowwhatloveis.mp3 Barat 70's - Foreigner - I Want To Know What Love Is
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/10.lovestoryandywilliams.mp3 Barat 70's - Love Story - Andy Williams
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/11.michaeljacksonijustcantstoplovingyou.mp3 Barat 70's - Michael Jackson - I Just Can'T Stop Loving You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/12.nataliecolenatkingcoleunforgettable1991.mp3 Barat 70's - Natalie Cole & Nat King Cole Unforgettable
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/13.peabobrysonreginabelleawholenewworld.mp3 Barat 70's - Peabo Bryson, Regina Belle - A Whole New World
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/14.putyourheadonmyshoulder.mp3 Barat 70's - Put Your Head On My Shoulder
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/15.robertaflackkillingmesoftlywithhissong.mp3 Barat 70's - Roberta Flack - Killing Me Softly
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/16.rodstewarthaveitoldyoulately.mp3 Barat 70's - Rod Stewart - Have I Told You Lately
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/17.simplyredholdingbacktheyears.mp3 Barat 70's - Simply Red - Holding Back The Years
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijustcalledtosayiloveyou.mp3 Barat 70's - Stevie Wonder I Just Called To Say I Love You
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 Barat 70's - The Beatles - The Beatles - Something
+https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 Barat 70's - Unchained Melody
+
+# INDO 80's
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3 Indo 80's  Anggun - Mimpi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3 Indo 80's  Base Jam - Bukan Pujangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3 Indo 80's  Bunga - Kasih Jangan Kau Pergi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.chrisyekisahkasihdisekolah.mp3 Indo 80's  Chrisye - Kisah Kasih Di Sekolah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.cintakitaamysearchdaninkachristieliriklagu.mp3 Indo 80's  Cinta Kita - Amy Search Dan Inka Christie
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.dewa19kangen.mp3 Indo 80's  Dewa 19 - Kangen
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.existsmencarialasan.mp3 Indo 80's  Exists - Mencari Alasan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.firmankehilanganmusic.mp3 Indo 80's  Firman - Kehilangan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.hijaudaunsuara.mp3 Indo 80's  Hijau Daun - Suara
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.itapurnamasariyanksonairindusampaimati.mp3 Indo 80's  Ita Purnamasari & Yankson A I - Rindu Sampai Mati
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.jamrudwaktukumandi.mp3 Indo 80's  Jamrud - Waktuku Mandi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.javajivekauyangterindah.mp3 Indo 80's  Java Jive - Kau Yang Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.klaprojectyogyakartaofficial4kremasteredvideo.mp3 Indo 80's  Kla Project - Yogyakarta
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.nickiastrea.mp3 Indo 80's  Nicki Astrea
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.nikeardillabintangkehidupan.mp3 Indo 80's  Nike Ardilla - Bintang Kehidupan
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.noahseparuhaku.mp3 Indo 80's  Noah - Separuh Aku
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.noahyangterdalam.mp3 Indo 80's  Noah - Yang Terdalam
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhirofficialmusicvideo.mp3 Indo 80's  Romeo - Bunga Terakhir 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3 Indo 80's  Samson - Kenangan Terindah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3 Indo 80's  Trio Libels - Aku Suka Kamu
 https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 Tarhim
