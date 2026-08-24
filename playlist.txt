@@ -210,7 +210,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 Slow Rock -
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
 
-# Pop Barat -
+# Pop Barat
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Pop Barat - Westlife - My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Pop Barat - MTLR – Paint My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Pop Barat - Bryan Adams - Heaven
