@@ -5,6 +5,7 @@ Aturan:
 - Jika pengguna minta kategori/genre radio (misal: "radio berita", "radio musik", "radio dakwah"), gunakan kata kuncinya agar sistem memutar stasiun yang sesuai.
 
 Daftar Stasiun Radio:
+# RADIO KOREA
 -  Radio Arirang Korea https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 -  Radio YTN Korea https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 -  Radio TBN Korea http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
@@ -13,6 +14,8 @@ Daftar Stasiun Radio:
 -  Radio CBS Korea https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/medialist_9988553859297925072_hls.m3u8
 -  Radio Kpop Ballads https://stream.musicalfactory.it/listen/k-pop_zone/radio.mp3
 -  Radio Ardan Bandung https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og
+
+# RADIO BANDUNG
 -  Radio Oz Bandung https://streaming.ozradio.id:8443/ozbandung
 -  Radio K-Lit FM Bandung https://svara-stream.radioddns.net/bandung_klitefm_acc
 -  Radio MGT RBandung https://stream-n1.gntr.net/listen/mgtradio/mgtradio
@@ -23,6 +26,8 @@ Daftar Stasiun Radio:
 -  Radio Rama Bandung https://i.klikhost.com/8330/;
 -  Radio B Bandung https://n04-us.rcs.revma.com/9yp8b9pd6k3vv?rj-ttl=5&rj-tok=AAABnyJ7kHkAgzPZFe006xbkaw
 -  Radio Dahlia FM Bandung https://svara-stream.radioddns.net/bandung_dahliafm
+
+# RADIO LOKAL
 -  Radio Fajri FM https://radio.mitradio.com/listen/fajrifm/radio.mp3
 -  Radio Darussalam FM https://fdsfdsfdsf.radio12345.com/intro.mp3
 -  Radio Female FM http://103.24.105.90:9300/fjkt
@@ -47,7 +52,7 @@ Aturan:
 - Jika pengguna minta genre (Rock, Dangdut, Sunda, Koplo, Remix), gunakan nama genrenya agar sistem memutar semua lagu di genre tersebut secara berurutan (Contoh: [PLAY_MUSIC:Koplo]).
 
 Daftar Lagu:
-# INDO 01
+# IWAN FALS
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals - 22 januari
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals - Antara Aku Kau dan Sepatu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals - Aku Bukan Pilihan
@@ -69,6 +74,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3 - 
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iwan Fals - Guru Oemar Bakri
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals - Iya Atau Tidak
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang - Arti Kehidupan
+
+# DOEL SUMBANG
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang - Runtah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3 - Doel Sumbang - Kalau Bulan Bisa Ngomong
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3 - Doel Sumbang - Aku Cinta Kamu
@@ -83,6 +90,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3 - D
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3 - Doel Sumbang - Tembang Cinta
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3 - Doel Sumbang - Ditalipak
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3 - Doel Sumbang - Batu Hiu
+
+# EBIET G ADE
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/41.berita.mp3 - Ebiet G Ade - Berita Kepada Kawan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/42.titiprindu.mp3 - Ebiet G Ade - Titip Rindu Buat Ayah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/43.CameliaI.mp3 - Ebiet G Ade - - Camelia I
@@ -104,7 +113,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebie
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebiet G Ade - Isyu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebiet G Ade - Bingkai Mimpi
 
-# INDO 02
+# SLANK
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/01.takbisa.mp3 - Slank - Ku Tak Bisa
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/02.terlalu.mp3 - Slank - Terlalu Manis
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/03.balikin.mp3 - Slank - Balikin
@@ -125,6 +134,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/17.koruptor.mp3 - Sla
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/18.foto.mp3 - Slank - Foto Dalam Dompet
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/19.pandangan.mp3 - Slank - Pandangan Pertama
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/20.kampungan.mp3 - Slank - Kampungan
+
+# SHEILA ON 7
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/21.dan.mp3 - Sheila On 7 - Dan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/22.klasik.mp3 - Sheila On 7 - Sebuah Kisah Klasik
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/23.sephia.mp3 - Sheila On 7 - Sephia
@@ -145,6 +156,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/37.tunjuk.mp3 - Sheil
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - Sheila On 7 - Berhenti Berharap
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 - Mudah Saja
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 - Film Favorit
+
+# RHOMA IRAMA
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/41.1001.mp3 Rhoma Irama - 1001 macam
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/42.aduhai.mp3 Rhoma Irama - Aduhai
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/43.bahtera.mp3 Rhoma Irama - Bahtera Cinta
@@ -166,7 +179,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/58.pujangga.mp3 Rhoma
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/59.rupiah.mp3 Rhoma Irama - Rupiah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/60.syahdu.mp3 Rhoma Irama - Syahdu
 
-# INDO03
+# RADJA
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/01.akuada.mp3 Radja - Aku Ada Karena kau Ada
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/02.angin.mp3 Radja - Angin
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/03.bbc.mp3 Radja - Bencci Bilang Cinta
@@ -177,6 +190,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/07.manusia.mp3 Radja 
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/08.patahhati.mp3 Radja - Patah hati
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/09.tulus.mp3 Radja - Tulus
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/10.yakin.mp3 Radja - Yakin
+
+# TYPE-X
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/11.salam.mp3 Type-X - Salam Rindu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/12.sendirian.mp3 Type-X - Kamu Nggak Sendirian
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/13.mawarhitam.mp3 Type-X - Mawar Hitam
@@ -254,7 +269,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijus
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 Barat 70's - The Beatles - The Beatles - Something
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 Barat 70's - Unchained Melody
 
-# Indo 80's -
+# INDO 80's -
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3 Indo 80's - Anggun - Mimpi
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3 Indo 80's - Base Jam - Bukan Pujangga
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3 Indo 80's - Bunga - Kasih Jangan Kau Pergi
