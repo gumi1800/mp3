@@ -339,6 +339,49 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/36.scorpionswhenyoucame
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/37.scorpionswindofchange.mp3 - Scorpions - Wind Of Change
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/38.scorpionsyouandi.mp3 - Scorpions - You And I
 
+# BON JOVI
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/27.jonbonjoviblazeofglory.mp3  Jon Bon Jovi - Blaze Of Glory
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/2.bonjovialways.mp3  Bon Jovi - Always
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/3.bonjovibedofroses.mp3  Bon Jovi - Bed Of Roses
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/4.bonjoviillbethereforyou.mp3  Bon Jovi - I'Ll Be There For You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/5.bonjoviitsmylife.mp3  Bon Jovi - It'S My Life
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/6.bonjovilivinonaprayer.mp3  Bon Jovi - Livin' On A Prayer
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/7.bonjovineversaygoodbye.mp3  Bon Jovi - Never Say Goodbye
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/8.bonjovirunaway.mp3  Bon Jovi - Runaway
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/9.bonjoviwanteddeadoralive.mp3  Bon Jovi - Wanted Dead Or Alive
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.bonjoviyougiveloveabadname.mp3  Bon Jovi - You Give Love A Bad Name
+
+# COUNTRY
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.chrisstapletontennesseewhiskey.mp3  Chris Stapleton - Tennessee Whiskey
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/1.alanjacksoncountryboy.mp3  Alan Jackson - Country Boy
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.dollypartonjolene19880110.mp3  Dolly Parton - Jolene 19880110
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/23.hankwilliamsjracountryboycansurvive.mp3  Hank Williams, Jr. - A Country Boy Can Survive
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/24.johndenvertakemehomecountryroads.mp3  John Denver - Take Me Home, Country Roads
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/34.tobykeithshouldvebeenacowboy.mp3  Toby Keith - Should'Ve Been A Cowboy
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/35.willienelsonontheroadagain.mp3  Willie Nelson - On The Road Again
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/25.johnnycashfolsomprisonblues.mp3  Johnny Cash - Folsom Prison Blues
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/26.johnnycashringoffirecolorversionremastered.mp3  Johnny Cash - Ring Of Fire Color Version Remastered
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/28.kennyrogersthegambler.mp3  Kenny Rogers - The Gambler
+
+# GUNS N ROSES
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.gunsnrosescivilwar.mp3  Guns N' Roses - Civil War
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.gunsnrosesdontcry.mp3  Guns N' Roses - Don'T Cry
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.gunsnrosesestranged.mp3  Guns N' Roses - Estranged
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.gunsnrosesknockinonheavensdoor.mp3  Guns N' Roses - Knockin' On Heaven'S Door
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.gunsnrosesnovemberrain.mp3  Guns N' Roses - November Rain
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.gunsnrosesparadisecity.mp3  Guns N' Roses - Paradise City
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.gunsnrosespatience.mp3  Guns N' Roses - Patience
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.gunsnrosessweetchildomine.mp3  Guns N' Roses - Sweet Child O' Mine
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/21.gunsnroseswelcometothejungle.mp3  Guns N' Roses - Welcome To The Jungle
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/22.gunsnrosesrocketqueen.mp3  Guns N’ Roses - Rocket Queen
+
+# MR. BIG
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.mrbiggreentintedsixtiesmind.mp3  Mr. Big - Green - Tinted Sixties Mind
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.mrbigjusttakemyheart.mp3  Mr. Big - Just Take My Heart
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.mrbignothingbutlove.mp3  Mr. Big - Nothing But Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.mrbigtobewithyou4kvideo.mp3  Mr. Big - To Be With You 4K Video
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/33.mrbigwildworld.mp3  Mr. Big - Wild World
+
 # RELIGI
 https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 - Tarhim
 https://raw.githubusercontent.com/gumi1800/mp3/main/extra/dzikir.mp3 - Dzikir
