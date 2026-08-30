@@ -339,5 +339,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/36.scorpionswhenyoucame
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/37.scorpionswindofchange.mp3 - Scorpions - Wind Of Change
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/38.scorpionsyouandi.mp3 - Scorpions - You And I
 
-
-https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 Tarhim
+# RELIGI
+https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 - Tarhim
+https://raw.githubusercontent.com/gumi1800/mp3/main/extra/dzikir.mp3 - Dzikir
