@@ -259,7 +259,26 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijus
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 - Barat 70's - The Beatles - The Beatles - Something
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 - Barat 70's - Unchained Melody
 
-# INDO 80's -
+# BARAT 80'S
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.creedenceclearwaterrevivalhaveyoueverseentherain.mp3 - CCR - Have You Ever Seen The Rain
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.dollypartonyouare.mp3 - Dolly Parton - You Are
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.idontwanttotalkaboutitrodstewart.mp3 - Rod Stewart - I Don'T Want To Talk About It 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.ijustcalledtosayiloveyou.mp3 -Stevie Wonder - I Just Called To Say I Love You
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.istartedajoke.mp3 - Bee Gees I Started A Joke
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.ifloveisblind.mp3 - Tiffany - If Love Is Blind
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.kansasdustinthewind.mp3 - Kansas - Dust In The Wind
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.louisarmstrongwhatawonderfulworld.mp3 - Louis Armstrong - What A Wonderful World
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.michaelboltonsaidilovedyoubutilied.mp3 - Michael Bolton - Said I Loved You But I Lied
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.michaelboltontolovesomebody.mp3 - Michael Bolton - To Love Somebody
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.michaelboltonwhenamanlovesawoman.mp3 - Michael Bolton - When A Man Loves A Woman
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.michaeljacksonhealtheworld.mp3 - Michael Jackson - Heal The World
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.michaellearntorockthatswhyyougoaway.mp3 - Michael Learn To Rock - That'S Why You Go Away
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.michaellearnstorock25minutes.mp3 - Michael Learns To Rock - 25 Minutes
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.michaellearnstorocksleepingchild.mp3 - Michael Learns To Rock - Sleeping Child
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.rodstewartsailing.mp3 - Rod Stewart - Sailing
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.usaforafricawearetheworld.mp3 - Usa For Africa - We Are The World
+
+# INDO 80's
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.anggunmimpi.mp3 - Indo 80's - Anggun - Mimpi
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.basejambukanpujangga.mp3 - Indo 80's - Base Jam - Bukan Pujangga
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.bungakasihjangankaupergi.mp3 - Indo 80's - Bunga - Kasih Jangan Kau Pergi
