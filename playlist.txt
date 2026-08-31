@@ -463,6 +463,8 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/16.ritasugiartomatil
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/17.ritasugiartohitam.mp3 - Rita Sugiarto - Hitam
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/18.ritasugiartopriaidaman.mp3 - Rita Sugiarto - Pria Idaman
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/19.ritasugiartopertemuan.mp3 - Rita Sugiarto Pertemuan
+https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/1.arafiqpandanganpertama1youtube.mp3 - A Rafiq Pandangan Pertama
+https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/2.arafiqpengalamanpertamavideolyric.mp3 - A Rafiq ~ Pengalaman Pertama
 
 # RELIGI
 https://raw.githubusercontent.com/gumi1800/mp3/main/religi/1.hadadalwisulisummi.mp3 - Hadad Alwi & Sulis - Ummi
