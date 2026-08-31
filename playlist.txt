@@ -384,19 +384,26 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/33.mrbigwildworld.mp3  
 
 # KPOP
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.deuxinsummer.mp3  Deux - In Summer
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.djdocdanceswithdocdjdocdocmbctopmusic19970920.mp3  Dj. Doc - Dances With Doc, Dj. Doc - Doc와 함께 춤을, Mbc Top Music 19970920
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.djdocdanceswithdocdjdocdocmbctopmusic19970920.mp3  Dj. Doc - Dances With Doc
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.endoftheworld.mp3  End Of The World
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.kimgunmowrongfulmeetinglyrics.mp3  Kim Gun Mo - Wrongful Meeting Lyrics
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.kimgunmowrongfulmeetinglyrics.mp3  Kim Gun Mo - Wrongful Meeting
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.kungddarishabahrah.mp3  Kung Ddari Sha Bah Rah
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.onesummerdrivecool.mp3  One Summer Drive Cool
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.refreffarewellformulakbs101995.mp3  R.Ef - '이별공식' R.Ef - 'Farewell Formula' 【Kbs 가요톱10, 1995】
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.roorathreefour34mbctopmusic19960713.mp3  Roo'Ra - Three!Four!, 룰라 - 3!4!, Mbc Top Music 19960713
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.turboblackcatlyrics.mp3  Turbo - Black Cat Lyrics
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.turbotwistkingikbsworldtv200829.mp3  Turbo - Twist King I Kbs World Tv 200829
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.tvpprooraangelwithoutwingsmbctop50music.mp3  【Tvpp】 Roo'Ra - Angel Without Wings , 룰라 - 날개 잃은 천사 @Mbc Top50 Music
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.deuxturnaroundandlookatme101993.mp3  듀스 - '나를 돌아봐' Deux - 'Turn Around And Look At Me' 【가요톱10, 1993】
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.mv.mp3  서태지 - 인터넷 전쟁 Mv
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.mv.mp3  서태지와 아이들 - 컴백홈 Mv
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.refreffarewellformulakbs101995.mp3  R.Ef - 이별공식
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.roorathreefour34mbctopmusic19960713.mp3  Roo'Ra - Three!Four!
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.turboblackcatlyrics.mp3  Turbo - Black Cat
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.turbotwistkingikbsworldtv200829.mp3  Turbo - Twist King
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.tvpprooraangelwithoutwingsmbctop50music.mp3  【Tvpp】 Roo'Ra - Angel Without Wings
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.deuxturnaroundandlookatme101993.mp3  듀스 - '나를 돌아봐' Deux
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.mv.mp3  서태지 - 인터넷 전쟁
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.mv.mp3  서태지와 아이들 - 컴백홈
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.samogokktrotplayingtenorsaxophone.mp3 - 사모곡 - 태진아 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.myleconofficialmusicvideo.mp3  제이티엘 - My Lecon 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.track.mp3  김종환 - 사랑을 위하여
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.track.mp3  김종환 - 존재의 이유
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.ahjumma.mp3  Ah Jum - Ma
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.leeseungchulwesternsky.mp3  Lee Seung Chul - Western Sky
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.wintersonata.mp3  Winter Sonata - 처음부터 지금까지
 
 # RELIGI
 https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 - Tarhim
