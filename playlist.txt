@@ -52,7 +52,7 @@ Aturan:
 - Jika pengguna minta genre (Rock, Dangdut, Sunda, Koplo, Remix), gunakan nama genrenya agar sistem memutar semua lagu di genre tersebut secara berurutan (Contoh: [PLAY_MUSIC:Koplo]).
 
 Daftar Lagu:
-# IWAN FALS
+# INDO MASTER
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/01.22.mp3 - Iwan Fals - 22 januari
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/02.antaraaku.mp3 - Iwan Fals - Antara Aku Kau dan Sepatu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/03.bukanpilihan.mp3 - Iwan Fals - Aku Bukan Pilihan
@@ -74,8 +74,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/18.tolongtuhan.mp3 - 
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/19.umarbakri.mp3 - Iwan Fals - Guru Oemar Bakri
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/20.yatidak.mp3 - Iwan Fals - Iya Atau Tidak
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/21.artikehidupan.mp3 - Doel Sumbang - Arti Kehidupan
-
-# DOEL SUMBANG
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/22.runtah.mp3 - Doel Sumbang - Runtah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/23.kalaubulan.mp3 - Doel Sumbang - Kalau Bulan Bisa Ngomong
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/24.akucintakamu.mp3 - Doel Sumbang - Aku Cinta Kamu
@@ -90,8 +88,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/32.ulartangga.mp3 - D
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/33.tembangcinta.mp3 - Doel Sumbang - Tembang Cinta
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/34.ditalipak.mp3 - Doel Sumbang - Ditalipak
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/35.batuhiu.mp3 - Doel Sumbang - Batu Hiu
-
-# EBIET G ADE
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/41.berita.mp3 - Ebiet G Ade - Berita Kepada Kawan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/42.titiprindu.mp3 - Ebiet G Ade - Titip Rindu Buat Ayah
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/43.CameliaI.mp3 - Ebiet G Ade - - Camelia I
@@ -113,7 +109,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/58.bedanya.mp3 - Ebie
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/59.isyu.mp3 - Ebiet G Ade - Isyu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo01/60.bingkai.mp3 - Ebiet G Ade - Bingkai Mimpi
 
-# SLANK
+# INDO BAND MASTER
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/01.takbisa.mp3 - Slank - Ku Tak Bisa
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/02.terlalu.mp3 - Slank - Terlalu Manis
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/03.balikin.mp3 - Slank - Balikin
@@ -134,8 +130,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/17.koruptor.mp3 - Sla
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/18.foto.mp3 - Slank - Foto Dalam Dompet
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/19.pandangan.mp3 - Slank - Pandangan Pertama
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/20.kampungan.mp3 - Slank - Kampungan
-
-# SHEILA ON 7
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/21.dan.mp3 - Sheila On 7 - Dan
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/22.klasik.mp3 - Sheila On 7 - Sebuah Kisah Klasik
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/23.sephia.mp3 - Sheila On 7 - Sephia
@@ -156,30 +150,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/37.tunjuk.mp3 - Sheil
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/35.berhenti.mp3 - Sheila On 7 - Berhenti Berharap
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/39.mudahsaja.mp3 - Sheila On 7 - Mudah Saja
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/40.favorit.mp3 - Sheila On 7 - Film Favorit
-
-# RHOMA IRAMA
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/41.1001.mp3 Rhoma Irama - 1001 macam
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/42.aduhai.mp3 Rhoma Irama - Aduhai
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/43.bahtera.mp3 Rhoma Irama - Bahtera Cinta
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/44.begadang.mp3 Rhoma Irama - Begadang
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/45.bujangan.mp3 Rhoma Irama -  Bujangan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/46.darahmuda.mp3 Rhoma Irama - Darah Muda
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/47.dasigincu.mp3 Rhoma Irama - Dasi dan Gincu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/48.ghibah.mp3 Rhoma Irama - Ghibah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/49.gitartua.mp3 Rhoma Irama - Gitar Tua
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/50.judi.mp3 Rhoma Irama - Judi
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/51.keramat.mp3 Rhoma Irama - Keramat
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/52.malamminggu.mp3 Rhoma Irama - Malam Minggu
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/53.melodi.mp3 Rhoma Irama - Melodi Cinta
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/54.mirasantika.mp3 Rhoma Irama - Mirasantika
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/55.penasaran.mp3 Rhoma Irama - Penasaran
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/56.perjuangan.mp3 Rhoma Irama - Perjuangan dan Doa
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/57.pertemuan.mp3 Rhoma Irama - Pertemuan
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/58.pujangga.mp3 Rhoma Irama - Pujangga
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/59.rupiah.mp3 Rhoma Irama - Rupiah
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/60.syahdu.mp3 Rhoma Irama - Syahdu
-
-# RADJA
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/01.akuada.mp3 Radja - Aku Ada Karena kau Ada
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/02.angin.mp3 Radja - Angin
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/03.bbc.mp3 Radja - Bencci Bilang Cinta
@@ -189,9 +159,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/06.jujur.mp3 Radja - 
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/07.manusia.mp3 Radja - Manusia Biasa
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/08.patahhati.mp3 Radja - Patah hati
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/09.tulus.mp3 Radja - Tulus
-https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/10.yakin.mp3 Radja - Yakin
-
-# TYPE-X
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/11.salam.mp3 Type-X - Salam Rindu
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/12.sendirian.mp3 Type-X - Kamu Nggak Sendirian
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/13.mawarhitam.mp3 Type-X - Mawar Hitam
@@ -203,19 +170,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/18.pacarbaik.mp3 Type
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/19.boyband.mp3 Type-X - Boyband
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/20.melati.mp3 Type-X - Melati Aku benci
 
-# SLOW ROCK
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 Slow Rock - Steel Heart - Shes Gone
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 Slow Rock - Fire House - When I look Into Your Eyes
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/07.rememberyou.mp3 Slow Rock - Skid Row - Remember You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/08.california.mp3 Slow Rock - Eagles - Hotel California
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.childrencry.mp3 Slow Rock - White Lions - When the Children Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.lifetime.mp3 Slow Rock - Fire House - Love Of A Life Time
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.morethanwords.mp3 Slow Rock - Extreme - More Than Words
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 Slow Rock - Bryan Adam - I Doit For You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
-
-# Pop Barat
+# BARAT 70's - 90'S
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/21.mylove.mp3 Pop Barat - Westlife - My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/22.paint.mp3 Pop Barat - MTLR – Paint My Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/23.heaven.mp3 Pop Barat - Bryan Adams - Heaven
@@ -236,8 +191,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/barat/37.tearsin.mp3 Pop Bar
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/38.crazyfor.mp3 Pop Barat - Madonna - Crazy for You
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/39.timeafter.mp3 Pop Barat - Cyndi Lauper - Time After Time
 https://raw.githubusercontent.com/gumi1800/mp3/main/barat/40.howdeep.mp3 Pop Barat - Bee Gees - How Deep Is Your Love
-
-# BARAT 70's
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/1.barbrastreisandwomaninlove.mp3 - Barat 70's - Barbra Streisand - Woman In Love
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/2.benekingstandbyme.mp3 - Barat 70's - Ben E. King - Stand By Me
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/3.bettemidlerwindbeneathmywings.mp3 - Barat 70's - Bette Midler - Wind Beneath My Wings
@@ -258,8 +211,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/memories/17.simplyredholding
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/18.steviewonderijustcalledtosayiloveyou.mp3 - Barat 70's - Stevie Wonder I Just Called To Say I Love You
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/19.thebeatlesthebeatlessomething.mp3 - Barat 70's - The Beatles - The Beatles - Something
 https://raw.githubusercontent.com/gumi1800/mp3/main/memories/20.unchainedmelody.mp3 - Barat 70's - Unchained Melody
-
-# BARAT 80'S
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.creedenceclearwaterrevivalhaveyoueverseentherain.mp3 - CCR - Have You Ever Seen The Rain
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.dollypartonyouare.mp3 - Dolly Parton - You Are
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.idontwanttotalkaboutitrodstewart.mp3 - Rod Stewart - I Don'T Want To Talk About It 
@@ -300,7 +251,17 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.romeobungaterakhiro
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.samsonkenanganterindah.mp3 - Indo 80's - Samson - Kenangan Terindah
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.triolibelsakusukakamu.mp3 - Indo 80's - Trio Libels - Aku Suka Kamu
 
-# AEROSMITH
+# ROCK MASTER
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 Slow Rock - Steel Heart - Shes Gone
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 Slow Rock - Fire House - When I look Into Your Eyes
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/07.rememberyou.mp3 Slow Rock - Skid Row - Remember You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/08.california.mp3 Slow Rock - Eagles - Hotel California
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.childrencry.mp3 Slow Rock - White Lions - When the Children Cry
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.lifetime.mp3 Slow Rock - Fire House - Love Of A Life Time
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.morethanwords.mp3 Slow Rock - Extreme - More Than Words
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 Slow Rock - Bryan Adam - I Doit For You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/1.aerosmithamazing.mp3 - Aerosmith - Amazing
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/2.aerosmithangel.mp3 - Aerosmith - Angel
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/3.aerosmithcrazy.mp3 - Aerosmith - Crazy
@@ -311,8 +272,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/7.aerosmithidontwanttom
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/8.aerosmithjaniesgotagun.mp3 - Aerosmith - Janie'S Got A Gun
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/9.aerosmithsweetemotion.mp3 - Aerosmith - Sweet Emotion
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.aerosmithwalkthisway.mp3 - Aerosmith - Walk This Way
-
-# METALLICA
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.blackenedbintang.mp3 - Metallica - Blackened
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.fadetoblack.mp3 - Metallica - Fade To Black
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.masterofpuppets.mp3 - Metallica - Master Of Puppets
@@ -323,8 +282,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.metallicaone.mp3 - M
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.metallicasadbuttrue.mp3 - Metallica - Sad But True
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/39.seekdestroy.mp3 - Metallica - Seek & Destroy
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/40.whereverimayroam.mp3 - Metallica - Wherever I May Roam
-
-# QUEEN
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.queenanotheronebitesthedust.mp3  Queen - Another One Bites The Dust
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.queendontstopmenow.mp3 - Queen - Don'T Stop Me Now
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/21.queeniwanttobreakfree.mp3 - Queen - I Want To Break Free
@@ -335,8 +292,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/25.queenwearethechampio
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/26.queenwewillrockyou.mp3 - Queen - We Will Rock You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/27.queenwhowantstoliveforever.mp3 - Queen - Who Wants To Live Forever
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/28.queenbohemianrhapsody.mp3 - Queen – Bohemian Rhapsody
-
-# SCORPIONS
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.scorpionsalwayssomewherescorpions.mp3 - Scorpions - Always Somewhere
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.scorpionsbigcitynights.mp3 - Scorpions - Big City Nights
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.scorpionsholiday.mp3 - Scorpions - Holiday
@@ -347,8 +302,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/35.scorpionsstillloving
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/36.scorpionswhenyoucameintomylife.mp3 - Scorpions - When You Came Into My Life
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/37.scorpionswindofchange.mp3 - Scorpions - Wind Of Change
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/38.scorpionsyouandi.mp3 - Scorpions - You And I
-
-# BON JOVI
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/27.jonbonjoviblazeofglory.mp3 - Jon Bon Jovi - Blaze Of Glory
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/2.bonjovialways.mp3 - Bon Jovi - Always
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/3.bonjovibedofroses.mp3 - Bon Jovi - Bed Of Roses
@@ -359,6 +312,21 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/7.bonjovineversaygoodby
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/8.bonjovirunaway.mp3 - Bon Jovi - Runaway
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/9.bonjoviwanteddeadoralive.mp3 - Bon Jovi - Wanted Dead Or Alive
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.bonjoviyougiveloveabadname.mp3 - Bon Jovi - You Give Love A Bad Name
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.gunsnrosescivilwar.mp3 - Guns N' Roses - Civil War
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.gunsnrosesdontcry.mp3 - Guns N' Roses - Don'T Cry
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.gunsnrosesestranged.mp3 - Guns N' Roses - Estranged
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.gunsnrosesknockinonheavensdoor.mp3 - Guns N' Roses - Knockin' On Heaven'S Door
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.gunsnrosesnovemberrain.mp3 - Guns N' Roses - November Rain
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.gunsnrosesparadisecity.mp3 - Guns N' Roses - Paradise City
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.gunsnrosespatience.mp3 - Guns N' Roses - Patience
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.gunsnrosessweetchildomine.mp3 - Guns N' Roses - Sweet Child O' Mine
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/21.gunsnroseswelcometothejungle.mp3 - Guns N' Roses - Welcome To The Jungle
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/22.gunsnrosesrocketqueen.mp3 - Guns N’ Roses - Rocket Queen
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.mrbiggreentintedsixtiesmind.mp3 - Mr. Big - Green - Tinted Sixties Mind
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.mrbigjusttakemyheart.mp3 - Mr. Big - Just Take My Heart
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.mrbignothingbutlove.mp3 - Mr. Big - Nothing But Love
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.mrbigtobewithyou4kvideo.mp3 - Mr. Big - To Be With You
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/33.mrbigwildworld.mp3 - Mr. Big - Wild World
 
 # COUNTRY
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.chrisstapletontennesseewhiskey.mp3 - Chris Stapleton - Tennessee Whiskey
@@ -371,25 +339,6 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/35.willienelsonontheroa
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/25.johnnycashfolsomprisonblues.mp3 - Johnny Cash - Folsom Prison Blues
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/26.johnnycashringoffirecolorversionremastered.mp3 - Johnny Cash - Ring Of Fire
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/28.kennyrogersthegambler.mp3 - Kenny Rogers - The Gambler
-
-# GUNS N ROSES
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.gunsnrosescivilwar.mp3 - Guns N' Roses - Civil War
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.gunsnrosesdontcry.mp3 - Guns N' Roses - Don'T Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.gunsnrosesestranged.mp3 - Guns N' Roses - Estranged
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.gunsnrosesknockinonheavensdoor.mp3 - Guns N' Roses - Knockin' On Heaven'S Door
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.gunsnrosesnovemberrain.mp3 - Guns N' Roses - November Rain
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.gunsnrosesparadisecity.mp3 - Guns N' Roses - Paradise City
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.gunsnrosespatience.mp3 - Guns N' Roses - Patience
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.gunsnrosessweetchildomine.mp3 - Guns N' Roses - Sweet Child O' Mine
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/21.gunsnroseswelcometothejungle.mp3 - Guns N' Roses - Welcome To The Jungle
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/22.gunsnrosesrocketqueen.mp3 - Guns N’ Roses - Rocket Queen
-
-# MR. BIG
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.mrbiggreentintedsixtiesmind.mp3 - Mr. Big - Green - Tinted Sixties Mind
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.mrbigjusttakemyheart.mp3 - Mr. Big - Just Take My Heart
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.mrbignothingbutlove.mp3 - Mr. Big - Nothing But Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.mrbigtobewithyou4kvideo.mp3 - Mr. Big - To Be With You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/33.mrbigwildworld.mp3 - Mr. Big - Wild World
 
 # KPOP
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.deuxinsummer.mp3 - Deux - In Summer
@@ -444,6 +393,26 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/26.tommyjpisadibatasko
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/27.tommyjpisasuratuntukkekasih.mp3 - Tommy J Pisa - Surat Untuk Kekasih
 
 # DANGDUT
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/41.1001.mp3 Rhoma Irama - 1001 macam
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/42.aduhai.mp3 Rhoma Irama - Aduhai
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/43.bahtera.mp3 Rhoma Irama - Bahtera Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/44.begadang.mp3 Rhoma Irama - Begadang
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/45.bujangan.mp3 Rhoma Irama -  Bujangan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/46.darahmuda.mp3 Rhoma Irama - Darah Muda
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/47.dasigincu.mp3 Rhoma Irama - Dasi dan Gincu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/48.ghibah.mp3 Rhoma Irama - Ghibah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/49.gitartua.mp3 Rhoma Irama - Gitar Tua
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/50.judi.mp3 Rhoma Irama - Judi
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/51.keramat.mp3 Rhoma Irama - Keramat
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/52.malamminggu.mp3 Rhoma Irama - Malam Minggu
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/53.melodi.mp3 Rhoma Irama - Melodi Cinta
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/54.mirasantika.mp3 Rhoma Irama - Mirasantika
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/55.penasaran.mp3 Rhoma Irama - Penasaran
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/56.perjuangan.mp3 Rhoma Irama - Perjuangan dan Doa
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/57.pertemuan.mp3 Rhoma Irama - Pertemuan
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/58.pujangga.mp3 Rhoma Irama - Pujangga
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/59.rupiah.mp3 Rhoma Irama - Rupiah
+https://raw.githubusercontent.com/gumi1800/mp3/main/indo02/60.syahdu.mp3 Rhoma Irama - Syahdu
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/3.elvysukaesihsekuntummawarmerahlagulawastbmusicii.mp3 - Elvy Sukaesih - Sekuntum Mawar Merah
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/4.evietamalaselamatmalam.mp3 - Evie Tamala - Selamat Malam
 https://raw.githubusercontent.com/gumi1800/mp3/main/dangdut/5.honasutraterbayangbayanghd.mp3 - Ona Sutra - Terbayang Bayang
