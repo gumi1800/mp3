@@ -204,24 +204,14 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/19.boyband.mp3 Type-X
 https://raw.githubusercontent.com/gumi1800/mp3/main/indo03/20.melati.mp3 Type-X - Melati Aku benci
 
 # SLOW ROCK
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/01.november.mp3 Slow Rock - Guns n Roses - November Rain
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/02.always.mp3 Slow Rock - Bon Jovi - Always
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/03.shesgone.mp3 Slow Rock - Steel Heart - Shes Gone
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/04.windof.mp3 Slow Rock - Scorpions - Wind Of Change
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/05.missathing.mp3 Slow Rock - Aerosmith - I Dont Miss A Thing
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 Slow Rock - Fire House - When I look Into Ypur Eyes
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/06.whenilook.mp3 Slow Rock - Fire House - When I look Into Your Eyes
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/07.rememberyou.mp3 Slow Rock - Skid Row - Remember You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/08.california.mp3 Slow Rock - Eagles - Hotel California
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/09.loveofmylife.mp3 Slow Rock - Queen - Love Of My Life
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.childrencry.mp3 Slow Rock - White Lions - When the Children Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.dontcry.mp3 Slow Rock - Guns n Roses - Dont Cry
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.bedofroses.mp3 Slow Rock - Bon Jovi - Bed Of Roses
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/13.lovingyou.mp3 Slow Rock - Scorpions - I Still Loving You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/14.lifetime.mp3 Slow Rock - Fire House - Love Of A Life Time
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/15.morethanwords.mp3 Slow Rock - Extreme - More Than Words
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/16.nothingelse.mp3 Slow Rock - Metallica - Nothing Else Matter
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/17.everything.mp3 Slow Rock - Bryan Adam - I Doit For You
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/18.tobe.mp3 Slow Rock - Mr. Big - To Be With You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/19.lovehurts.mp3 Slow Rock - Nazaret - Love Hurts
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/20.soldier.mp3 Slow Rock - Deep Purple - Soldier of Fortune
 
@@ -328,7 +318,7 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/27.queenwhowantstolivef
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/28.queenbohemianrhapsody.mp3 - Queen – Bohemian Rhapsody
 
 # SCORPIONS
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.scorpionsalwayssomewherescorpions.mp3 - Scorpions - Always Somewhere - Scorpions
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.scorpionsalwayssomewherescorpions.mp3 - Scorpions - Always Somewhere
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.scorpionsbigcitynights.mp3 - Scorpions - Big City Nights
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.scorpionsholiday.mp3 - Scorpions - Holiday
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.scorpionsnoonelikeyou.mp3 - Scorpions - No One Like You
@@ -354,13 +344,13 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/10.bonjoviyougiveloveab
 # COUNTRY
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/11.chrisstapletontennesseewhiskey.mp3 - Chris Stapleton - Tennessee Whiskey
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/1.alanjacksoncountryboy.mp3 - Alan Jackson - Country Boy
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.dollypartonjolene19880110.mp3 - Dolly Parton - Jolene 19880110
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/12.dollypartonjolene19880110.mp3 - Dolly Parton - Jolene
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/23.hankwilliamsjracountryboycansurvive.mp3 - Hank Williams, Jr. - A Country Boy Can Survive
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/24.johndenvertakemehomecountryroads.mp3 - John Denver - Take Me Home, Country Roads
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/34.tobykeithshouldvebeenacowboy.mp3 - Toby Keith - Should'Ve Been A Cowboy
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/35.willienelsonontheroadagain.mp3 - Willie Nelson - On The Road Again
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/25.johnnycashfolsomprisonblues.mp3 - Johnny Cash - Folsom Prison Blues
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/26.johnnycashringoffirecolorversionremastered.mp3 - Johnny Cash - Ring Of Fire Color Version Remastered
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/26.johnnycashringoffirecolorversionremastered.mp3 - Johnny Cash - Ring Of Fire
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/28.kennyrogersthegambler.mp3 - Kenny Rogers - The Gambler
 
 # GUNS N ROSES
@@ -379,29 +369,29 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/rock/22.gunsnrosesrocketquee
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/29.mrbiggreentintedsixtiesmind.mp3 - Mr. Big - Green - Tinted Sixties Mind
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/30.mrbigjusttakemyheart.mp3 - Mr. Big - Just Take My Heart
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/31.mrbignothingbutlove.mp3 - Mr. Big - Nothing But Love
-https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.mrbigtobewithyou4kvideo.mp3 - Mr. Big - To Be With You 4K Video
+https://raw.githubusercontent.com/gumi1800/mp3/main/rock/32.mrbigtobewithyou4kvideo.mp3 - Mr. Big - To Be With You
 https://raw.githubusercontent.com/gumi1800/mp3/main/rock/33.mrbigwildworld.mp3 - Mr. Big - Wild World
 
 # KPOP
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.deuxinsummer.mp3 - Deux - In Summer
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.djdocdanceswithdocdjdocdocmbctopmusic19970920.mp3 - Dj. Doc - Dances With Doc
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.endoftheworld.mp3 - End Of The World
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.kimgunmowrongfulmeetinglyrics.mp3 - Kim Gun Mo - Wrongful Meeting
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.kimgunmowrongfulmeetinglyrics.mp3 - Kim Gunmo - Wrongful Meeting
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.kungddarishabahrah.mp3 - Kung Ddari Sha Bah Rah
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.onesummerdrivecool.mp3 - One Summer Drive Cool
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.refreffarewellformulakbs101995.mp3 - R.Ef - 이별공식
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.roorathreefour34mbctopmusic19960713.mp3 - Roo'Ra - Three!Four!
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.turboblackcatlyrics.mp3 - Turbo - Black Cat
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.turbotwistkingikbsworldtv200829.mp3 - Turbo - Twist King
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.tvpprooraangelwithoutwingsmbctop50music.mp3 - 【Tvpp】 Roo'Ra - Angel Without Wings
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.deuxturnaroundandlookatme101993.mp3 - 듀스 - '나를 돌아봐' Deux
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.mv.mp3 - 서태지 - 인터넷 전쟁
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.tvpprooraangelwithoutwingsmbctop50music.mp3 - Roo'Ra - Angel Without Wings
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.deuxturnaroundandlookatme101993.mp3 - 듀스 - 나를 돌아봐
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.mv.mp3 - 서태지와 아이들 - 인터넷 전쟁
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.mv.mp3 - 서태지와 아이들 - 컴백홈
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.samogokktrotplayingtenorsaxophone.mp3 -  - 사모곡 - 태진아 
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/1.samogokktrotplayingtenorsaxophone.mp3 - 태진아 - 사모곡
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.myleconofficialmusicvideo.mp3 - 제이티엘 - My Lecon 
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.track.mp3 - 김종환 - 사랑을 위하여
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.track.mp3 - 김종환 - 존재의 이유
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.ahjumma.mp3 - Ah Jum - Ma
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.ahjumma.mp3 - 태진아 - 아주마
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.leeseungchulwesternsky.mp3 - Lee Seung Chul - Western Sky
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.wintersonata.mp3 - Winter Sonata - 처음부터 지금까지
 
@@ -411,25 +401,25 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/2.broerymarantikadewiy
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/3.broerymarantikawiduri.mp3 - Broery Marantika - Widuri
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/4.dlloydapasalahdandosaku.mp3 - D'Lloyd - Apa Salah Dan Dosaku
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/5.dlloydtakmungkin.mp3 - D'Lloyd - Tak Mungkin
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.gerejatuapanbersoriginallyriclagujadulindonesiaenakdidengar.mp3 -  - Gereja Tua - Panbers
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.gitorolliescintayangtulus.mp3 - Gito Rollies - Cinta Yang Tulus
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/6.gerejatuapanbersoriginallyriclagujadulindonesiaenakdidengar.mp3 - Panbers - Gereja Tua
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/8.koesplusandaikankaudatang.mp3 - Koes Plus - Andaikan Kau Datang
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/9.koesplusbungaditepijalan.mp3 - Koes Plus - Bunga Di Tepi Jalan
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/10.koesplusdiana.mp3 - Koes Plus - Diana
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.melatidarijayagiribimbolirik.mp3 - Melati Dari Jayagiri - Bimbo 
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.newrollieskemarau.mp3 - New Rollies - Kemarau
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/11.melatidarijayagiribimbolirik.mp3 - Bimbo - Melati Dari Jayagiri
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/13.obbiemessakhkisahkasihdisekolah.mp3 - Obbie Messakh - Kisah Kasih Di Sekolah
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/14.panbersakhircinta.mp3 - Panbers - Akhir Cinta
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/15.panberscintadanpermata.mp3 - Panbers - Cinta Dan Permata
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.pancefpondaagkaudanakumenyatu.mp3 - Pance F Pondaag - Kau Dan Aku Menyatu
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.pancefpondaagtakinginsendiri.mp3 - Pance F Pondaag - Tak Ingin Sendiri
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/16.pancefpondaagkaudanakumenyatu.mp3 - Pance Pondaag - Kau Dan Aku Menyatu
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/17.pancefpondaagtakinginsendiri.mp3 - Pance Pondaag - Tak Ingin Sendiri
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/18.pancepondaag07buntuksebuahnama.mp3 - Pance Pondaag  - Untuk Sebuah Nama
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/19.pancepondaagdemikaudansibuahhati.mp3 - Pance Pondaag - Demi Kau Dan Si Buah Hati
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/20.pancepondaagyangpertamakali.mp3 - Pance Pondaag - Yang Pertama Kali
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/21.rollies98salamterakhir.mp3 - Rollies'98 - Salam Terakhir
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/22.themercysayah.mp3 - The Mercy'S - Ayah
-https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/23.themercystiadalagi.mp3 - The Mercy'S - Tiada Lagi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/22.themercysayah.mp3 - The Mercy's - Ayah
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/23.themercystiadalagi.mp3 - The Mercy's - Tiada Lagi
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/7.gitorolliescintayangtulus.mp3 - The Rollies - Cinta Yang Tulus
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/24.therollieskauyangkusayang.mp3 - The Rollies - Kau Yang Kusayang
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/21.rollies98salamterakhir.mp3 - The Rollies - Salam Terakhir
+https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/12.newrollieskemarau.mp3 - The Rollies - Kemarau
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/25.tommyjpisabiarkanakumenangis.mp3 - Tommy J Pisa - Biarkan Aku Menangis
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/26.tommyjpisadibataskotaini.mp3 - Tommy J Pisa - Di Batas Kota Ini
 https://raw.githubusercontent.com/gumi1800/mp3/main/jadul/27.tommyjpisasuratuntukkekasih.mp3 - Tommy J Pisa - Surat Untuk Kekasih
