@@ -10,12 +10,12 @@ Daftar Stasiun Radio:
 -  Radio YTN Korea https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 -  Radio TBN Korea http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
 -  Radio TBS Korea https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_720.smil/playlist.m3u8
--  Radio Seoul Kpop https://frontend.streamonkey.net/energy-kpop/stream/mp3?aggregator=mytuner
+-  Radio Seoul Korea https://frontend.streamonkey.net/energy-kpop/stream/mp3?aggregator=mytuner
 -  Radio CBS Korea https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/medialist_9988553859297925072_hls.m3u8
--  Radio Kpop Ballads https://stream.musicalfactory.it/listen/k-pop_zone/radio.mp3
--  Radio Ardan Bandung https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og
+-  Radio Ballads Korea https://stream.musicalfactory.it/listen/k-pop_zone/radio.mp3
 
 # RADIO BANDUNG
+-  Radio Ardan Bandung https://n10-us.rcs.revma.com/ugpyzu9n5k3vv?rj-ttl=5&rj-tok=AAABnyNaqQYAFaxLqmt-MrP1Og
 -  Radio Oz Bandung https://streaming.ozradio.id:8443/ozbandung
 -  Radio K-Lit FM Bandung https://svara-stream.radioddns.net/bandung_klitefm_acc
 -  Radio MGT RBandung https://stream-n1.gntr.net/listen/mgtradio/mgtradio
