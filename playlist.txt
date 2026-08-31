@@ -486,6 +486,20 @@ https://raw.githubusercontent.com/gumi1800/mp3/main/religi/16.yamaulanasabyan.mp
 https://raw.githubusercontent.com/gumi1800/mp3/main/notif/tarhim2.mp3 - Tarhim
 https://raw.githubusercontent.com/gumi1800/mp3/main/extra/dzikir.mp3 - Dzikir
 
+# LAGU SUNDA
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/1.tembangsundadasarjodolagusundadasarjodojogetinajashayy.mp3 - Dasar Jodo
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/2.asepbalonpennywise.mp3 - Asep Balon - Pennywise
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/3.asepbalonxlainkoplobawakalemweh.mp3 - Asep Balon - Kalem Weh
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/12.sarxasepbalonsieta.mp3 - Asep Balon - Si Eta
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/4.banondariazmyzftgiriharjaduaputu.mp3 - Azmy Z - Banondari
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/5.curugcinulang.mp3 - Darso - Curug Cinulang
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/6.darsoduriat.mp3 - Darso - Duriat
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/7.darsomaripi.mp3 - Darso - Maripi
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/9.kabogohjauhdarso.mp3 - Darso - Kabogoh Jauh
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/10.mawarbodas.mp3 - Darso - Mawar Bodas
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/8.jayantiadeastridxgerengsengteam.mp3 - Ade Astrid - Jayanti
+https://raw.githubusercontent.com/gumi1800/mp3/main/sunda/11.oonbjang.mp3 - Oon B - Jang
+
 # LAGU TIMUR
 https://raw.githubusercontent.com/gumi1800/mp3/main/extra/1.anadokdara.mp3 - Anadok - Tara Mood
 https://raw.githubusercontent.com/gumi1800/mp3/main/extra/2.lagukudalakalolibikinramesuasanapestanikahkaltimfulltendawiorekojr.mp3 - Kuda Laka Loli
